@@ -1,0 +1,101 @@
+DIRECTED GRAPH - PROJECT/LANGUAGE MAPPING
+============================================================
+
+Anchor Root: E42C
+Root Project: data-structures-golang
+Anchor Ancestor: data-structures-rust
+
+PROJECT -> LANGUAGE MAPPINGS:
+------------------------------------------------------------
+  E42C                 -> go
+  E42C-001             -> rust
+  E42C-002             -> python
+  E42C-003             -> cpp
+  E42C-004             -> java
+  E42C-005             -> python
+  E42C-006             -> multi
+  E42C-007             -> arm64
+  E42C-008             -> x86_64
+  E42C-009             -> benchmark
+  LANG-00              -> rust
+  LANG-01              -> go
+  LANG-02              -> c
+  LANG-03              -> cpp
+  LANG-04              -> perl
+  LANG-05              -> ruby
+  LANG-06              -> csharp
+  LANG-07              -> javascript
+  LANG-08              -> typescript
+  LANG-09              -> python
+  LANG-10              -> java
+  LANG-11              -> swift
+  LANG-12              -> objectivec
+
+ALL EDGES:
+------------------------------------------------------------
+  E42C -> E42C-001
+  E42C -> E42C-002
+  E42C -> E42C-003
+  E42C -> E42C-004
+  E42C -> E42C-005
+  E42C -> E42C-006
+  E42C -> E42C-007
+  E42C -> E42C-008
+  E42C -> E42C-009
+  E42C-001 -> E42C-002
+  E42C-001 -> E42C-003
+  E42C-001 -> E42C-004
+  E42C-001 -> E42C-005
+  E42C-001 -> E42C-006
+  E42C-001 -> E42C-007
+  E42C-001 -> E42C-008
+  E42C-001 -> E42C-009
+  data-structures-golang -> LANG-01
+  data-structures-rust -> LANG-00
+  data-structures-core -> LANG-09
+  data-structures-cpp -> LANG-02
+  data-structures-cpp -> LANG-03
+  data-structures-cpp -> LANG-12
+  data-structures-java -> LANG-10
+  data-structures-java -> LANG-06
+  data-structures-python -> LANG-09
+  data-structures-python -> LANG-07
+  data-structures-python -> LANG-08
+  data-structures-multi-compiler -> LANG-00
+  data-structures-multi-compiler -> LANG-01
+  data-structures-multi-compiler -> LANG-02
+  data-structures-multi-compiler -> LANG-03
+  data-structures-multi-compiler -> LANG-04
+  data-structures-multi-compiler -> LANG-05
+  data-structures-multi-compiler -> LANG-06
+  data-structures-multi-compiler -> LANG-07
+  data-structures-multi-compiler -> LANG-08
+  data-structures-multi-compiler -> LANG-09
+  data-structures-multi-compiler -> LANG-10
+  data-structures-multi-compiler -> LANG-11
+  data-structures-multi-compiler -> LANG-12
+  data-structures-arm64 -> LANG-02
+  data-structures-arm64 -> LANG-03
+  data-structures-arm64 -> LANG-00
+  data-structures-arm64 -> LANG-01
+  data-structures-arm64 -> LANG-09
+  data-structures-arm64 -> LANG-10
+  data-structures-x86_64 -> LANG-02
+  data-structures-x86_64 -> LANG-03
+  data-structures-x86_64 -> LANG-00
+  data-structures-x86_64 -> LANG-01
+  data-structures-x86_64 -> LANG-09
+  data-structures-x86_64 -> LANG-10
+  data-structures-benchmark -> LANG-00
+  data-structures-benchmark -> LANG-01
+  data-structures-benchmark -> LANG-02
+  data-structures-benchmark -> LANG-03
+  data-structures-benchmark -> LANG-04
+  data-structures-benchmark -> LANG-05
+  data-structures-benchmark -> LANG-06
+  data-structures-benchmark -> LANG-07
+  data-structures-benchmark -> LANG-08
+  data-structures-benchmark -> LANG-09
+  data-structures-benchmark -> LANG-10
+  data-structures-benchmark -> LANG-11
+  data-structures-benchmark -> LANG-12

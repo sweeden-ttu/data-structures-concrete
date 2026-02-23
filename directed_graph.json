@@ -1,0 +1,367 @@
+{
+  "anchor_root": "E42C",
+  "root_project": "data-structures-golang",
+  "anchor_ancestor": "data-structures-rust",
+  "total_nodes": 23,
+  "total_edges": 66,
+  "nodes": {
+    "E42C": {
+      "name": "data-structures-golang",
+      "language": "go"
+    },
+    "E42C-001": {
+      "name": "data-structures-rust",
+      "language": "rust"
+    },
+    "E42C-002": {
+      "name": "data-structures-core",
+      "language": "python"
+    },
+    "E42C-003": {
+      "name": "data-structures-cpp",
+      "language": "cpp"
+    },
+    "E42C-004": {
+      "name": "data-structures-java",
+      "language": "java"
+    },
+    "E42C-005": {
+      "name": "data-structures-python",
+      "language": "python"
+    },
+    "E42C-006": {
+      "name": "data-structures-multi-compiler",
+      "language": "multi"
+    },
+    "E42C-007": {
+      "name": "data-structures-arm64",
+      "language": "arm64"
+    },
+    "E42C-008": {
+      "name": "data-structures-x86_64",
+      "language": "x86_64"
+    },
+    "E42C-009": {
+      "name": "data-structures-benchmark",
+      "language": "benchmark"
+    },
+    "LANG-00": {
+      "name": "rust",
+      "language": "rust"
+    },
+    "LANG-01": {
+      "name": "go",
+      "language": "go"
+    },
+    "LANG-02": {
+      "name": "c",
+      "language": "c"
+    },
+    "LANG-03": {
+      "name": "cpp",
+      "language": "cpp"
+    },
+    "LANG-04": {
+      "name": "perl",
+      "language": "perl"
+    },
+    "LANG-05": {
+      "name": "ruby",
+      "language": "ruby"
+    },
+    "LANG-06": {
+      "name": "csharp",
+      "language": "csharp"
+    },
+    "LANG-07": {
+      "name": "javascript",
+      "language": "javascript"
+    },
+    "LANG-08": {
+      "name": "typescript",
+      "language": "typescript"
+    },
+    "LANG-09": {
+      "name": "python",
+      "language": "python"
+    },
+    "LANG-10": {
+      "name": "java",
+      "language": "java"
+    },
+    "LANG-11": {
+      "name": "swift",
+      "language": "swift"
+    },
+    "LANG-12": {
+      "name": "objectivec",
+      "language": "objectivec"
+    }
+  },
+  "edges": [
+    [
+      "E42C",
+      "E42C-001"
+    ],
+    [
+      "E42C",
+      "E42C-002"
+    ],
+    [
+      "E42C",
+      "E42C-003"
+    ],
+    [
+      "E42C",
+      "E42C-004"
+    ],
+    [
+      "E42C",
+      "E42C-005"
+    ],
+    [
+      "E42C",
+      "E42C-006"
+    ],
+    [
+      "E42C",
+      "E42C-007"
+    ],
+    [
+      "E42C",
+      "E42C-008"
+    ],
+    [
+      "E42C",
+      "E42C-009"
+    ],
+    [
+      "E42C-001",
+      "E42C-002"
+    ],
+    [
+      "E42C-001",
+      "E42C-003"
+    ],
+    [
+      "E42C-001",
+      "E42C-004"
+    ],
+    [
+      "E42C-001",
+      "E42C-005"
+    ],
+    [
+      "E42C-001",
+      "E42C-006"
+    ],
+    [
+      "E42C-001",
+      "E42C-007"
+    ],
+    [
+      "E42C-001",
+      "E42C-008"
+    ],
+    [
+      "E42C-001",
+      "E42C-009"
+    ],
+    [
+      "data-structures-golang",
+      "LANG-01"
+    ],
+    [
+      "data-structures-rust",
+      "LANG-00"
+    ],
+    [
+      "data-structures-core",
+      "LANG-09"
+    ],
+    [
+      "data-structures-cpp",
+      "LANG-02"
+    ],
+    [
+      "data-structures-cpp",
+      "LANG-03"
+    ],
+    [
+      "data-structures-cpp",
+      "LANG-12"
+    ],
+    [
+      "data-structures-java",
+      "LANG-10"
+    ],
+    [
+      "data-structures-java",
+      "LANG-06"
+    ],
+    [
+      "data-structures-python",
+      "LANG-09"
+    ],
+    [
+      "data-structures-python",
+      "LANG-07"
+    ],
+    [
+      "data-structures-python",
+      "LANG-08"
+    ],
+    [
+      "data-structures-multi-compiler",
+      "LANG-00"
+    ],
+    [
+      "data-structures-multi-compiler",
+      "LANG-01"
+    ],
+    [
+      "data-structures-multi-compiler",
+      "LANG-02"
+    ],
+    [
+      "data-structures-multi-compiler",
+      "LANG-03"
+    ],
+    [
+      "data-structures-multi-compiler",
+      "LANG-04"
+    ],
+    [
+      "data-structures-multi-compiler",
+      "LANG-05"
+    ],
+    [
+      "data-structures-multi-compiler",
+      "LANG-06"
+    ],
+    [
+      "data-structures-multi-compiler",
+      "LANG-07"
+    ],
+    [
+      "data-structures-multi-compiler",
+      "LANG-08"
+    ],
+    [
+      "data-structures-multi-compiler",
+      "LANG-09"
+    ],
+    [
+      "data-structures-multi-compiler",
+      "LANG-10"
+    ],
+    [
+      "data-structures-multi-compiler",
+      "LANG-11"
+    ],
+    [
+      "data-structures-multi-compiler",
+      "LANG-12"
+    ],
+    [
+      "data-structures-arm64",
+      "LANG-02"
+    ],
+    [
+      "data-structures-arm64",
+      "LANG-03"
+    ],
+    [
+      "data-structures-arm64",
+      "LANG-00"
+    ],
+    [
+      "data-structures-arm64",
+      "LANG-01"
+    ],
+    [
+      "data-structures-arm64",
+      "LANG-09"
+    ],
+    [
+      "data-structures-arm64",
+      "LANG-10"
+    ],
+    [
+      "data-structures-x86_64",
+      "LANG-02"
+    ],
+    [
+      "data-structures-x86_64",
+      "LANG-03"
+    ],
+    [
+      "data-structures-x86_64",
+      "LANG-00"
+    ],
+    [
+      "data-structures-x86_64",
+      "LANG-01"
+    ],
+    [
+      "data-structures-x86_64",
+      "LANG-09"
+    ],
+    [
+      "data-structures-x86_64",
+      "LANG-10"
+    ],
+    [
+      "data-structures-benchmark",
+      "LANG-00"
+    ],
+    [
+      "data-structures-benchmark",
+      "LANG-01"
+    ],
+    [
+      "data-structures-benchmark",
+      "LANG-02"
+    ],
+    [
+      "data-structures-benchmark",
+      "LANG-03"
+    ],
+    [
+      "data-structures-benchmark",
+      "LANG-04"
+    ],
+    [
+      "data-structures-benchmark",
+      "LANG-05"
+    ],
+    [
+      "data-structures-benchmark",
+      "LANG-06"
+    ],
+    [
+      "data-structures-benchmark",
+      "LANG-07"
+    ],
+    [
+      "data-structures-benchmark",
+      "LANG-08"
+    ],
+    [
+      "data-structures-benchmark",
+      "LANG-09"
+    ],
+    [
+      "data-structures-benchmark",
+      "LANG-10"
+    ],
+    [
+      "data-structures-benchmark",
+      "LANG-11"
+    ],
+    [
+      "data-structures-benchmark",
+      "LANG-12"
+    ]
+  ]
+}
